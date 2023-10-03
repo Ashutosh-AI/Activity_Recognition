@@ -6,11 +6,14 @@ Human Activity Detection
 2. then, first get the Camera's Current Location IP, Current Address, City Postal Code
 3. Store some Frames of the Disaster
 4. Send all the details (Emergency Location, Emergency small clip, what type of emergency) to the Concerned Authorities
-5. like for Explosion send a Mail to Fire Brigade, for Fighting send Mail to Police and for Accident mail to Hospital with a small clip.
+5. For explosion send Mail to the Fire Brigade, for Fighting send Mail to the Police and for Accident mail to the Hospital with a small clip.
 
 ![Screenshot 2023-10-03 213225](https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/a4d47328-72b4-4439-9e84-8fbe46a19a39)
 
-https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/b1ea89ae-6887-44d5-9e04-15cd500c5667
+
+
+
+https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/f1e87199-84c9-4e52-a698-1ad01470cac3
 
 
 
