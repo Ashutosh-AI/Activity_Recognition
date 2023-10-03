@@ -1,6 +1,10 @@
 # Activity_Recognition
 Human Activity Detection
 
+
+https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/9f429568-466f-4cde-b32d-a9f15776e117
+
+
 # This Project Recognise three classes 
 Explosion
 Road Accident
