@@ -2,7 +2,9 @@
 Human Activity Detection
 
 
-https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/9f429568-466f-4cde-b32d-a9f15776e117
+
+https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/41b91188-2239-4614-bdc6-20202e9db564
+
 
 
 # This Project Recognise three classes 
