@@ -3,7 +3,7 @@ Human Activity Detection
 
 
 
-https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/41b91188-2239-4614-bdc6-20202e9db564
+https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/b1ea89ae-6887-44d5-9e04-15cd500c5667
 
 
 
