@@ -1,6 +1,12 @@
 # Activity_Recognition
 Human Activity Detection
 
+#This Project works in These Steps:
+1. First Detect the Activity in the Video or WebCam, If there is unethical Activity Detected
+2. then, first get the Camera's Current Location IP, Current Address, City Postal Code
+3. Store some Frames of the Disaster
+4. Send all the details (Emergency Location, Emergency small clip, what type of emergency) to the Concerned Authorities
+5. like for Explosion send a Mail to Fire Brigade, for Fighting send Mail to Police and for Accident mail to Hospital with a small clip.
 
 
 https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/b1ea89ae-6887-44d5-9e04-15cd500c5667
