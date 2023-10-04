@@ -1,5 +1,14 @@
 # Activity_Recognition
-Human Activity Detection
+The UGV based Surveillance solution system is a deep learning-based object detection
+model which will help us to detect the anomalies in the society and take the necessary
+action.
+
+Main aim is to create an AI solution for surveillance using rover or UGV and to
+implement the following use cases.
+1. To detect mob (illegal) activities (like Fighting) and inform Police.
+2. To detect disasters (like fire, Explosion) and send details to concerned authorities.
+3. To detect a medical emergency (Road Accident) and take emergency action (call an
+   ambulance and raise an alarm to the nearest hospital) for help.
 
 #This Project works in These Steps:
 1. First Detect the Activity in the Video or WebCam, If there is unethical Activity Detected
