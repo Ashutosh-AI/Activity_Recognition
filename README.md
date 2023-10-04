@@ -1,5 +1,5 @@
 # Activity_Recognition
-The UGV based Surveillance solution system is a deep learning-based object detection
+The UGV ((Unmanned Ground Vehicle)) based Surveillance solution system is a deep learning-based object detection
 model which will help us to detect the anomalies in the society and take the necessary
 action.
 
