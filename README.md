@@ -31,11 +31,11 @@ Road Accident
 Fighting
 
 # This is the Trained Model Architecture
+The Network combines CNN with LSTM to use the CNN as a feature extractor for images and then feeds the features into the LSTM to analyze the Sequence (CNN + RNN)
 
-The Network is a combination of a Convolutional Neural Network and a Long Short-Term Memory Network, (CNN + RNN).
 ![LRCN_model_structure_plot (1)](https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/1bb7e338-c387-4f33-9564-b6adbaf3150e)
 
 # Dataset:
-  Dataset for this project for the Indian continent, contains small videos of all three classes.
+  The dataset for this project for the Indian continent contains small videos of all three classes.
   Datasets link:
   https://www.crcv.ucf.edu/projects/real-world/
