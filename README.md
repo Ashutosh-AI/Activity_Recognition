@@ -21,7 +21,8 @@ implement the following use cases.
 ![Screenshot 2023-10-03 213225](https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/7d8a9fea-fcf2-477e-88c4-0d1a87c3d77c)
 
 
-https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/f1e87199-84c9-4e52-a698-1ad01470cac3
+
+https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/66d96292-48af-4fa7-b98a-a4128f7d3074
 
 
 
