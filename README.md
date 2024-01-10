@@ -22,6 +22,10 @@ implement the following use cases.
 
 
 
+https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/52ac1b0f-55a1-4fac-9095-4ff26bb019e5
+
+
+
 
 
 # This Project Recognise three classes 
