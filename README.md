@@ -23,12 +23,6 @@ implement the following use cases.
 
 
 
-https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/5c11ad8d-0ab0-4434-8926-e7f3875d203a
-
-
-https://github.com/Ashutosh-AI/Activity_Recognition/assets/53949585/66d96292-48af-4fa7-b98a-a4128f7d3074
-
-
 
 # This Project Recognise three classes 
 Explosion
